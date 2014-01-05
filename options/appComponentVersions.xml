@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<versions>
+  <component name="AbbreviationManager" version="1388671957285" />
+  <component name="AppserversManager" version="1388671957350" />
+  <component name="BaseRefactoringSettings" version="1388126229117" />
+  <component name="CodeInsightSettings" version="1388671957351" />
+  <component name="CodeStyleSchemeSettings" version="1388673244578" />
+  <component name="DaemonCodeAnalyzerSettings" version="1388671957352" />
+  <component name="DebuggerSettings" version="1388370455924" />
+  <component name="DimensionService" version="1388671957352" />
+  <component name="EclipseCodeFormatterSettings" version="1383115436725" />
+  <component name="EditorColorsManagerImpl" version="1388671957352" />
+  <component name="EditorSettings" version="1388671957353" />
+  <component name="Encoding" version="1388671957353" />
+  <component name="ExportableFileTemplateSettings" version="1388671957354" />
+  <component name="ExportableTemplateSettings" version="1388671957354" />
+  <component name="FeatureUsageStatistics" version="1388744472357" />
+  <component name="FileBasedIndex" version="1388671957355" />
+  <component name="FileTypeManager" version="1388671957366" />
+  <component name="FindSettings" version="1388744390976" />
+  <component name="GeneralSettings" version="1388671957366" />
+  <component name="GlobalAntConfiguration" version="1380093808166" />
+  <component name="HttpConfigurable" version="1388671957367" />
+  <component name="Images.OptionsManager" version="1386758536618" />
+  <component name="JRebel Persistent Settings" version="1388671957368" />
+  <component name="JavaRebelPlugin" version="1388671957369" />
+  <component name="KeymapManager" version="1388671957369" />
+  <component name="LafManager" version="1388671957369" />
+  <component name="LanguageInjectionConfiguration" version="1388671957370" />
+  <component name="MavenVersion" version="1387776472880" />
+  <component name="NodeRendererSettings" version="1388370455929" />
+  <component name="NotificationConfiguration" version="1388671957371" />
+  <component name="Osmorc" version="1379386809955" />
+  <component name="PasswordDatabase" version="1386038698778" />
+  <component name="PathMacrosImpl" version="1388671957371" />
+  <component name="PluginManagerConfigurable" version="1388025001326" />
+  <component name="ProjectJdkTable" version="1388671957371" />
+  <component name="ProjectManager" version="1388673244593" />
+  <component name="PropertiesComponent" version="1388671957372" />
+  <component name="RecentProjectsManager" version="1388743514623" />
+  <component name="RefactoringSettings" version="1384248238896" />
+  <component name="Registry" version="1388671957372" />
+  <component name="RunnerLayoutSettings" version="1388406112851" />
+  <component name="SelectProjectTemplateSettings" version="1387776472883" />
+  <component name="StatisticsApplicationUsages" version="1388744244851" />
+  <component name="SvnApplicationSettings" version="1388671957375" />
+  <component name="TemplateSettings" version="1388671957376" />
+  <component name="TodoConfiguration" version="1388671957377" />
+  <component name="UISettings" version="1388671957377" />
+  <component name="UpdatesConfigurable" version="1388671957377" />
+  <component name="UsageTrigger" version="1388671957377" />
+  <component name="UsagesStatistic" version="1388671957378" />
+  <component name="ViewsSettings" version="1388402719810" />
+  <component name="WebBrowsersConfiguration" version="1388671957378" />
+  <component name="WebServers" version="1388671957379" />
+  <component name="WebServicesPluginSettings" version="1388671957379" />
+  <component name="WindowManager" version="1388750183350" />
+  <component name="XDebuggerSettings" version="1388671957380" />
+  <component name="XPathView.XPathViewPlugin" version="1388671957380" />
+  <component name="XSLT-Support.Configuration" version="1388671957380" />
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1388671957449" />
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl" version="1388671957450" />
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" version="1388671957450" />
+  <component name="libraryTable" version="1388671957451" />
+</versions>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="defaultSettings" value="true" />
+          <option name="id" value="1378888341535" />
+          <option name="name" value="default" />
+        </Settings>
+        <Settings>
+          <option name="id" value="1379310109365" />
+          <option name="name" value="default copy" />
+        </Settings>
+        <Settings>
+          <option name="id" value="1379310113845" />
+          <option name="name" value="default copy copy" />
+        </Settings>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1379310114788" />
+          <option name="name" value="new" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/.IntelliJIdea12/config/plugins/EclipseFormatter/eclipse_formatter.xml" />
+          <option name="selectedJavaProfile" value="Eclipse [jelly]" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
+

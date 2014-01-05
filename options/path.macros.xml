@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="CLASS" value="E:/Workspaces/MyEclipse8.6/SpreadSys" />
+    <macro name="MAVEN_REPOSITORY" value="C:/Users/Yue/.m2/repository" />
+  </component>
+</application>
+

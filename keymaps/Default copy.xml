@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="alt C" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="control SPACE" />
+    <keyboard-shortcut first-keystroke="alt PERIOD" />
+  </action>
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift alt D" />
+  </action>
+  <action id="Subversion.Add">
+    <keyboard-shortcut first-keystroke="alt A" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="UpdateFiles">
+    <keyboard-shortcut first-keystroke="alt U" />
+  </action>
+</keymap>
+

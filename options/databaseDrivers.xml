@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="LocalDatabaseDriverManager">
+    <driver id="db2">
+      <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+    </driver>
+    <driver id="derby">
+      <driver id="derby.remote" />
+      <driver id="derby.embedded" />
+    </driver>
+    <driver id="sqlserver">
+      <driver id="sqlserver.jtds" />
+      <driver id="sqlserver.ms" />
+    </driver>
+    <driver id="sybase">
+      <driver id="sybase.jtds" />
+      <driver id="sybase.ase" />
+    </driver>
+    <driver id="mysql" />
+    <driver id="oracle" />
+    <driver id="postgresql" />
+    <driver id="hsqldb">
+      <driver id="hsqldb.remote" />
+      <driver id="hsqldb.embedded" />
+    </driver>
+    <driver id="h2">
+      <driver id="h2.remote" />
+      <driver id="h2.embedded" />
+    </driver>
+    <driver id="sqlite">
+      <driver id="sqlite.xerial" />
+      <driver id="sqlite.zentus" />
+    </driver>
+    <driver id="odbc.sun" />
+  </component>
+</application>
+
