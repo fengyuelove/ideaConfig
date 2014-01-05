@@ -247,6 +247,7 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="G:\workspace\nodejs-angular" />
         <option value="E:\Node.js\helloWorld" />
         <option value="E:\Workspaces\MyEclipse8.6\SpreadSys" />
         <option value="E:\Workspaces\MyEclipse8.6\oauth2" />
@@ -259,7 +260,7 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="E:\Workspaces\MyEclipse8.6\SpreadSys" />
+        <option value="G:\workspace\nodejs-angular" />
       </list>
     </option>
     <option name="names">
@@ -272,7 +273,7 @@
         <entry key="E:\Workspaces\MyEclipse8.6\recharge" value="" />
       </map>
     </option>
-    <option name="lastPath" value="E:\Node.js\helloWorld" />
+    <option name="lastPath" value="G:\workspace\nodejs-angular" />
   </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />

@@ -3,10 +3,17 @@
   <component name="StatisticsApplicationUsages">
     <group name="libraries">
       <project id="IDEAProject" values="spring-mvc,spring" />
-      <project id="infinityWorld" values="spring-mvc,spring" />
-      <project id="SpreadSys" values="spring,spring-security,hibernate,JMS,struts2,EJB,spring-mvc,TransactionJavaee" />
-      <project id="fault" values="JMS,EJB,spring,TransactionJavaee,spring-mvc" />
+      <project id="infinityWorld" values="spring,spring-mvc" />
+      <project id="SpreadSys" values="JMS,hibernate,struts2,spring-mvc,EJB,spring,spring-security,TransactionJavaee" />
+      <project id="fault" values="spring,EJB,TransactionJavaee,spring-mvc,JMS" />
       <project id="helloWorld" values="javaScript" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="IDEAProject" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="infinityWorld" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="SpreadSys" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,Application" />
+      <project id="fault" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+      <project id="nodejs-angular" values="NodeJSConfigurationType" />
     </group>
     <group name="language-level">
       <project id="recharge" values="JDK_1_6" />
@@ -16,7 +23,17 @@
       <project id="weibo4j-oauth2" values="JDK_1_6" />
       <project id="fault" values="JDK_1_6" />
       <project id="helloWorld" values="JDK_1_6" />
+      <project id="nodejs-angular" values="JDK_1_6" />
       <project id="Node.js" values="JDK_1_6" />
+    </group>
+    <group name="module type">
+      <project id="IDEAProject" values="JAVA_MODULE" />
+      <project id="infinityWorld" values="JAVA_MODULE" />
+      <project id="SpreadSys" values="JAVA_MODULE" />
+      <project id="weibo4j-oauth2" values="JAVA_MODULE" />
+      <project id="fault" values="JAVA_MODULE" />
+      <project id="helloWorld" values="WEB_MODULE" />
+      <project id="nodejs-angular" values="WEB_MODULE" />
     </group>
     <group name="vcs">
       <project id="recharge" values="svn" />
@@ -27,57 +44,30 @@
     </group>
     <group name="frameworks">
       <project id="IDEAProject" values="web,Spring" />
-      <project id="infinityWorld" values="Spring,web" />
-      <project id="SpreadSys" values="Struts2,web,hibernate,Spring" />
-      <project id="fault" values="Spring,web" />
-    </group>
-    <group name="javaScript Frameworks">
-      <project id="helloWorld" values="Node.js Core Modules v0.10.22" />
-    </group>
-    <group name="spring">
-      <project id="infinityWorld" values="facet_xmlContext,facet_xmlContext,facet_xmlContext" />
-      <project id="SpreadSys" values="facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext" />
-      <project id="fault" values="facet_xmlContext" />
-    </group>
-    <group name="run-configuration-type">
-      <project id="IDEAProject" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
-      <project id="infinityWorld" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
-      <project id="SpreadSys" values="Application,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
-      <project id="fault" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
-    </group>
-    <group name="module type">
-      <project id="IDEAProject" values="JAVA_MODULE" />
-      <project id="infinityWorld" values="JAVA_MODULE" />
-      <project id="SpreadSys" values="JAVA_MODULE" />
-      <project id="weibo4j-oauth2" values="JAVA_MODULE" />
-      <project id="fault" values="JAVA_MODULE" />
-      <project id="helloWorld" values="WEB_MODULE" />
-    </group>
-    <group name="file-type">
-      <project id="recharge" values="UNKNOWN" />
-      <project id="IDEAProject" values="IDEA_MODULE,JSP,JAVA,UNKNOWN,XML" />
-      <project id="infinityWorld" values="SQL,CSS,IDEA_MODULE,Images,UNKNOWN,CLASS,VTL,JAVA,ARCHIVE,HTML,Properties,PLAIN_TEXT,Manifest,JavaScript,XML,JSP" />
-      <project id="SpreadSys" values="PLAIN_TEXT,ARCHIVE,JAVA,JavaScript,JSP,CSS,CLASS,Native,SQL,Manifest,HTML,Images,XML,Properties,Eclipse,UNKNOWN,VTL,IDEA_MODULE" />
-      <project id="weibo4j-oauth2" values="IDEA_MODULE,ARCHIVE,PLAIN_TEXT,JAVA,Eclipse,UNKNOWN,CLASS,XML,JSP" />
-      <project id="fault" values="Eclipse,Manifest,XML,JSP,UNKNOWN,JAVA,JavaScript,Properties,CSS,ARCHIVE,HTML,PLAIN_TEXT,IDEA_MODULE,Images" />
-      <project id="helloWorld" values="JavaScript,XML,CoffeeScript,UNKNOWN,JSON,HTML,IDEA_MODULE" />
-      <project id="Node.js" values="UNKNOWN" />
+      <project id="infinityWorld" values="web,Spring" />
+      <project id="SpreadSys" values="Spring,Struts2,web,hibernate" />
+      <project id="fault" values="web,Spring" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="IDEAProject" values="JUnit,Application" />
+      <project id="IDEAProject" values="Application,JUnit" />
       <project id="infinityWorld" values="Application,JUnit" />
       <project id="SpreadSys" values="Application,JUnit" />
       <project id="helloWorld" values="NodeJSConfigurationType" />
     </group>
-    <group name="javaScript Scope Usages">
-      <project id="recharge" values="Project,Project" />
-      <project id="IDEAProject" values="Project,Project" />
-      <project id="infinityWorld" values="Project,Project" />
-      <project id="SpreadSys" values="Project,Project" />
-      <project id="weibo4j-oauth2" values="Project,Project" />
-      <project id="fault" values="Project,Project" />
-      <project id="helloWorld" values="File,File,File,File,File,Project,Project,File" />
-      <project id="Node.js" values="Project,Project" />
+    <group name="file-type">
+      <project id="recharge" values="UNKNOWN" />
+      <project id="IDEAProject" values="IDEA_MODULE,JSP,JAVA,XML,UNKNOWN" />
+      <project id="infinityWorld" values="Properties,XML,SQL,CSS,VTL,HTML,Images,JavaScript,UNKNOWN,PLAIN_TEXT,JAVA,CLASS,Manifest,IDEA_MODULE,ARCHIVE,JSP" />
+      <project id="SpreadSys" values="IDEA_MODULE,PLAIN_TEXT,Eclipse,HTML,Properties,VTL,UNKNOWN,Images,XML,JAVA,CSS,ARCHIVE,SQL,CLASS,JavaScript,JSP,Native,Manifest" />
+      <project id="weibo4j-oauth2" values="Eclipse,JAVA,CLASS,PLAIN_TEXT,IDEA_MODULE,XML,UNKNOWN,ARCHIVE,JSP" />
+      <project id="fault" values="Properties,JAVA,Eclipse,Manifest,Images,PLAIN_TEXT,JSP,JavaScript,HTML,CSS,ARCHIVE,IDEA_MODULE,UNKNOWN,XML" />
+      <project id="helloWorld" values="JSON,CoffeeScript,JavaScript,XML,IDEA_MODULE,HTML,UNKNOWN" />
+      <project id="nodejs-angular" values="Images,PLAIN_TEXT,XML,JSHint,HTML,PATCH,JavaScript,IDEA_MODULE,JSON,UNKNOWN,CSS" />
+      <project id="Node.js" values="UNKNOWN" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="helloWorld" values="Node.js Core Modules v0.10.22" />
+      <project id="nodejs-angular" values="Node.js Core Modules v0.10.23" />
     </group>
     <group name="JavaScript versions">
       <project id="recharge" values="DEFAULT" />
@@ -87,7 +77,24 @@
       <project id="weibo4j-oauth2" values="DEFAULT" />
       <project id="fault" values="DEFAULT" />
       <project id="helloWorld" values="DEFAULT" />
+      <project id="nodejs-angular" values="DEFAULT" />
       <project id="Node.js" values="DEFAULT" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="recharge" values="Project,Project" />
+      <project id="IDEAProject" values="Project,Project" />
+      <project id="infinityWorld" values="Project,Project" />
+      <project id="SpreadSys" values="Project,Project" />
+      <project id="weibo4j-oauth2" values="Project,Project" />
+      <project id="fault" values="Project,Project" />
+      <project id="helloWorld" values="File,File,Project,File,File,Project,File,File" />
+      <project id="nodejs-angular" values="Project,Project,Project,Project" />
+      <project id="Node.js" values="Project,Project" />
+    </group>
+    <group name="spring">
+      <project id="infinityWorld" values="facet_xmlContext,facet_xmlContext,facet_xmlContext" />
+      <project id="SpreadSys" values="facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext,facet_xmlContext" />
+      <project id="fault" values="facet_xmlContext" />
     </group>
   </component>
   <component name="UsageTrigger">

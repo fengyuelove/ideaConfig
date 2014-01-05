@@ -3,11 +3,18 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="gr.annot.method.name" />
-        <option value="gr.method.name" />
         <option value="gr.field.name" />
         <option value="gr.script.fqn" />
         <option value="gr.class.fqn" />
+        <option value="sql.names" />
+        <option value="sql.column.name" />
+        <option value="sql.table.shortName" />
+        <option value="properties.index" />
+        <option value="JS.class.implements" />
+        <option value="JS.class.super" />
+        <option value="js.element.qualifiedName" />
+        <option value="js.members.shortName" />
+        <option value="js.qualified.shortName" />
         <option value="dom.namespaceKey" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />
@@ -23,19 +30,12 @@
         <option value="aj.itd.class" />
         <option value="aj.itd.method" />
         <option value="aj.itd.field" />
-        <option value="sql.names" />
-        <option value="sql.column.name" />
-        <option value="sql.table.shortName" />
-        <option value="properties.index" />
-        <option value="JS.class.implements" />
-        <option value="JS.class.super" />
-        <option value="js.element.qualifiedName" />
-        <option value="js.members.shortName" />
-        <option value="js.qualified.shortName" />
         <option value="gr.anonymous.class" />
         <option value="gr.class.super" />
         <option value="gr.script.class" />
         <option value="gr.annot.members" />
+        <option value="gr.annot.method.name" />
+        <option value="gr.method.name" />
       </list>
     </option>
   </component>
